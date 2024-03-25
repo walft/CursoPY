@@ -1,0 +1,6 @@
+print(12, 34, sep='-')
+print(56, 78, sep="-")
+print(90, 1011, end="*")
+print(90, 1011, end="i")
+print(90, 1011, end="\n")
+print(90, 1011, end="*")
