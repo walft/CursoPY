@@ -6,5 +6,5 @@ DocString
 """
 
 # comentários em uma única linha
-print(123) #frente
+print(123, 200+2) #frente
 # Abaixo
