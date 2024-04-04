@@ -4,3 +4,6 @@
 # Existem vários operadores para "Questionar".
 # Entre eles o ==, que é um operador lógico que questiona se um valor é igual a outro.
 
+print(100 == 100) #True
+print(100 == 98) #False
+print(type(100 == '100')) #False
