@@ -20,3 +20,4 @@ print("O tipo da variável interiro_negativo é ", type(inteiro_negativo))
 print("O tipo da variável flutuante_positivo é ", type(flutuante_positivo))
 print("O tipo da variável flutuante_negativo é ", type(flutuante_negativo))
 print('A soma entre o inteiro positivo e flutuante positivo é', inteiro_positivo + flutuante_positivo,' do tipo ', type(soma_int_e_float))
+
