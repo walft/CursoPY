@@ -1,6 +1,9 @@
-Numeros = 1234
-string = '1234'
+# Escape \ sempre o próximo caracter será inteprestado
 
-Soma_teste = Numeros + string
+print('Luis Henrque Gonçalves \'psicólogo\'')
 
-print(Soma_teste)
+# r na frente da string faz com que o caractere de escape seja exibido
+print(r'Luis Henrque Gonçalves \'psicólogo\'')
+
+# Usuar dois tipos de aspas seve para que sejam exibidas ' "
+print('O nome dele é "Luis"')
