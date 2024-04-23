@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # Tipos int e float
 # int -> Número inteiro
 # O tipo int representa qualquer número positivo ou negativo. int sem sinal é considerado positivo.
@@ -21,3 +22,14 @@ print("O tipo da variável flutuante_positivo é ", type(flutuante_positivo))
 print("O tipo da variável flutuante_negativo é ", type(flutuante_negativo))
 print('A soma entre o inteiro positivo e flutuante positivo é', inteiro_positivo + flutuante_positivo,' do tipo ', type(soma_int_e_float))
 
+=======
+print(type('Luis'))
+print(type("Henrique"))
+print(type(33))
+print(type(1.77))
+print(type(-12))
+print(type(-1.23))
+print(type('123'))
+print(type(True))
+print(type(None))
+>>>>>>> Stashed changes
