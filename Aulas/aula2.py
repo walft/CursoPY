@@ -1,0 +1,2 @@
+print(12, 34) #imprime os números separados por espaço, argumentos não nomeados de uma função são separados por vírgula, e o print irá colocar um espaço entre eles
+print(56, 78, sep='-') #o argumento sep é utilizado para definir o separador entre os argumentos, nesse caso, o separador é um hífen
