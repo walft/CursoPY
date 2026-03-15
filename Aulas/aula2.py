@@ -1,2 +1,5 @@
 print(12, 34) #imprime os números separados por espaço, argumentos não nomeados de uma função são separados por vírgula, e o print irá colocar um espaço entre eles
-print(56, 78, sep='-') #o argumento sep é utilizado para definir o separador entre os argumentos, nesse caso, o separador é um hífen
+print(56, 78, sep='-',) #o argumento sep é utilizado para definir o separador entre os argumentos, nesse caso, o separador é um hífen
+print(90, 12, sep='|', end='!') #o argumento end é utilizado para definir o que será impresso no final da linha, nesse caso, o final da linha será um ponto de exclamação
+print(10, 20, 100, end='/r/n') #o argumento end é utilizado para definir o que será impresso no final da linha, nesse caso, o final da linha será uma quebra de linha
+print(10, 20, 100, end='\n##') #o argumento end é utilizado para definir o que será impresso no final da linha, nesse caso, o final da linha será '##' seguido de uma quebra de linha
